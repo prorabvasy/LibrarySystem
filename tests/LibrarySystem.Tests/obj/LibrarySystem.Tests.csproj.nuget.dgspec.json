@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\tests\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\LibrarySystem.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\LibrarySystem.BLL.csproj",
+        "projectName": "LibrarySystem.BLL",
+        "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\LibrarySystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\polom\\.nuget\\packages\\",
+        "outputPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\polom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj": {
+                "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
+        "projectName": "LibrarySystem.DAL",
+        "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\polom\\.nuget\\packages\\",
+        "outputPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\polom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\tests\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\tests\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj",
+        "projectName": "LibrarySystem.Tests",
+        "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\tests\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\polom\\.nuget\\packages\\",
+        "outputPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\tests\\LibrarySystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\polom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\LibrarySystem.BLL.csproj": {
+                "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.BLL\\LibrarySystem.BLL.csproj"
+              },
+              "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj": {
+                "projectPath": "C:\\=ДЕТИ=\\лябы\\Разработка\\code\\LibrarySystem\\src\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\bin\Debug\net8.0\LibrarySystem.DAL.deps.json
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\bin\Debug\net8.0\LibrarySystem.DAL.runtimeconfig.json
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\bin\Debug\net8.0\LibrarySystem.DAL.dll
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\bin\Debug\net8.0\LibrarySystem.DAL.pdb
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.AssemblyInfoInputs.cache
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.AssemblyInfo.cs
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.csproj.CoreCompileInputs.cache
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.dll
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\refint\LibrarySystem.DAL.dll
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.pdb
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\LibrarySystem.DAL.genruntimeconfig.cache
+C:\=ДЕТИ=\лябы\Разработка\code\LibrarySystem\src\LibrarySystem.DAL\obj\Debug\net8.0\ref\LibrarySystem.DAL.dll
