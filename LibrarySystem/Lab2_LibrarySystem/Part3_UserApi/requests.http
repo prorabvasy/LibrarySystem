@@ -1,0 +1,25 @@
+@baseUrl = http://localhost:5000
+
+### Create user (replace PassHash with a real password hash)
+POST {{baseUrl}}/user
+Content-Type: application/json
+
+{
+  "login": "example_user",
+  "passHash": "0123456789abcdef0123456789abcdef"
+}
+
+### Get user
+GET {{baseUrl}}/user/1
+
+### Update user
+PUT {{baseUrl}}/user/1
+Content-Type: application/json
+
+{
+  "login": "example_user_updated",
+  "passHash": "abcdef0123456789abcdef0123456789"
+}
+
+### Delete user
+DELETE {{baseUrl}}/user/1
